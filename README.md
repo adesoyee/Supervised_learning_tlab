@@ -47,3 +47,12 @@ i. I hypothsized that there is no correlation between "isFraud" and "NewbalanceO
 ii. Criteria for dropping or keeping columns based on EDA was whether a column was necessary to interpret data.
 v. Final F1 Score is 0.029413867899792622
 
+**Images**
+This shows a pairplot of all our columns. Pairplots are a type of visualization commonly used in exploratory data analysis (EDA) to analyze the pairwise relationships between different variables in a dataset. They are particularly useful when dealing with multivariate data, as they allow you to quickly identify patterns, correlations, and potential insights.
+![alt text](image-1.png)
+This is a scatterplot between old balance orgi and new balance ori
+![alt text](image-2.png)
+This scatterplot shows a relationship between is flaggedfraud and new balance orgi
+![alt text](image-3.png)
+I created a heatmap. Heatmaps are visual representations of data where values in a matrix are represented as colors. These visualizations are particularly useful for displaying the intensity or concentration of values in a two-dimensional dataset. Heatmaps are commonly used in various fields, and their interpretation depends on the context
+![alt text](image-5.png)
