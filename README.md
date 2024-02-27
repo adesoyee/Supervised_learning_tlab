@@ -46,3 +46,4 @@ Answer the following questions in a separate document:
 i. I hypothsized that there is no correlation between "isFraud" and "NewbalanceOrig" Null hypothsis: There is a correlation between shares and likes in a post. My hypothesis was proven correct. There was actually no correlation between most of the graphs. There was one that had a postive correlation and that was between oldbalanceOrg' and 'newbalanceOrig.' This might have been because when money leaves an account it decreases so theres that. 
 ii. Criteria for dropping or keeping columns based on EDA was whether a column was necessary to interpret data.
 v. Final F1 Score is 0.029413867899792622
+
